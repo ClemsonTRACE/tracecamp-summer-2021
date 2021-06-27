@@ -13,19 +13,19 @@ This repository contains all of the projects and teaching material for Trace Cam
 
 Links to the content we will be covering each day, aswell as the project assignments required for each.
 
-- Week 0
+- **Week 0**
   - [Part 1 - HTML, CSS]()
   - [Part 2 - Bootstrap]()
-- Week 1
+- **Week 1**
   - [Part 1 - HTML, CSS]()
   - [Part 2 - Bootstrap]()
-- Week 2
+- **Week 2**
   - [Part 1 - HTML, CSS]()
   - [Part 2 - Bootstrap]()
-- Week 3
+- **Week 3**
   - [Part 1 - HTML, CSS]()
   - [Part 2 - Bootstrap]()
-- Final Project
+- [Final Project]()
 
 ## 📚 Reference
 
