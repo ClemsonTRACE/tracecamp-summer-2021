@@ -23,17 +23,14 @@ Links to the content we will be covering each day, aswell as the project assignm
 
 ## 📚 Reference
 
-- [Setting up a Project](./reference/setting_up_a_project.md) - Next.js App with Tailwind
 
 ## 🔗 Links
 
 Links relevant to the camp and the technologies we are using.
 
 - [Trace Camp Website](https://tracecamp.com/)
-- [Winter 2020 Camp Details](https://www.notion.so/Details-of-Trace-Camp-Winter-2020-1fb942fefba842308d36a70046ee33fb)
 - [React Documentation](https://reactjs.org/docs/introducing-jsx.html)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Next.js Documentation](https://nextjs.org/docs/getting-started)
 
 ## 🧯 Help and issues
 
