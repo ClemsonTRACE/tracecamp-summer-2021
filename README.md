@@ -13,13 +13,9 @@ This repository contains all of the projects and teaching material for Trace Cam
 
 Links to the content we will be covering each day, aswell as the project assignments required for each.
 
-- [Day 0. Sunday](./curriculum/day-0) - HTML, CSS
-- [Day 1. Monday](./curriculum/day-1) - JS, JSX, Next.js, Tailwind
-- [Day 2. Tuesday](./curriculum/day-2) - useState, useEffect, forms
-- [Day 3. Wednesday](./curriculum/day-3) - Async, APIs, Routing
-- [Day 4. Thursday](./curriculum/day-4) - Serverless, Private-key based APIs
-- [Day 5. Friday](./curriculum/day-5) - Deployment, Optional Typescript
-- [Final Project](./curriculum/final-project)
+- [Week 0]()
+  - [Part 1 - HTML, CSS]()
+  - [Part 2 - Bootstrap]()
 
 ## 📚 Reference
 
