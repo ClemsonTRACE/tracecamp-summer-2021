@@ -11,7 +11,7 @@ This repository contains all of the projects and teaching material for Trace Cam
 
 ## 📋 Curriculum
 
-Links to the content we will be covering each day, aswell as the project assignments required for each.
+Links to the content we will be covering each week, aswell as the project assignments required for each.
 
 - Week 0
   - [Part 1 - HTML, CSS]()
