@@ -16,6 +16,16 @@ Links to the content we will be covering each day, aswell as the project assignm
 - [Week 0]()
   - [Part 1 - HTML, CSS]()
   - [Part 2 - Bootstrap]()
+- [Week 1]()
+  - [Part 1 - HTML, CSS]()
+  - [Part 2 - Bootstrap]()
+- [Week 2]()
+  - [Part 1 - HTML, CSS]()
+  - [Part 2 - Bootstrap]()
+- [Week 3]()
+  - [Part 1 - HTML, CSS]()
+  - [Part 2 - Bootstrap]()
+- [Final Project]()
 
 ## 📚 Reference
 
