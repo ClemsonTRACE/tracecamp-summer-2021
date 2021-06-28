@@ -1,4 +1,12 @@
 <h1 align="center">
+  TODO: 
+</h1>
+- Add stretch (?) CSS assignment, rebuilding a site design
+- edit youtube playlist to exclude chapter on Tailwind and surge
+- Be more explicist about github pages directions
+- Add something about installing VSCode, WSL, Node
+
+<h1 align="center">
   🌅 Week 0 - Prework 🌅
 </h1>
 
@@ -35,11 +43,13 @@ Post the link to the Github Pages page in the Discord after you have completed i
 We *do not* expect you to understand everything in these resources. Your goal is to learn everything necessary to complete the assignment along the way. Reach out to the instructors on Discord if you need help. We want to see you succeed!
 
 - [Example of a completed assignment](https://jake-armstrong.surge.sh/)
+- [MDN Docs - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- [MDN Docs - Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+
+If you have programming experience, we recommend using the text-based tutorials above to attempt the assignment by yourself. We've also provided a ~40-minute video tutorial that walks through the assignment step-by-step, if you need help.
+
 - [Video tutorial for completing the assignment](https://www.youtube.com/playlist?list=PLHiGtNshvZ3BRExT8d34We2Ep_nnI7aWf)
 
-Above we've provided a video tutorial that walks through the assignment step-by-step. If you want a little more of a challenge, these 2 text-based tutorials from Mozilla give you all the information you need to complete the assignment.
-- [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
 ### 📖 Extra reading:
 
