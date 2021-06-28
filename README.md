@@ -27,14 +27,13 @@ Links to the content we will be covering each week, aswell as the project assign
 
 ## 📚 Reference
 
-
 ## 🔗 Links
 
 Links relevant to the camp and the technologies we are using.
 
 - [Trace Camp Website](https://tracecamp.com/)
+- [Trace Camp Discord](https://discord.gg/z5qFUKJkwU)
 - [React Documentation](https://reactjs.org/docs/introducing-jsx.html)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 
 ## 🧯 Help and issues
 
