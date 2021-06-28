@@ -47,7 +47,7 @@ We *do not* expect you to understand everything in these resources. Your goal 
 
 - [Example of a completed assignment](https://jake-armstrong.surge.sh/)
 - [MDN Docs - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- [MDN Docs - Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- [MDN Docs - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
 If you have programming experience, we recommend using the text-based tutorials above to attempt the assignment by yourself. We've also provided a ~40-minute video tutorial that walks through the assignment step-by-step, if you need help.
 
