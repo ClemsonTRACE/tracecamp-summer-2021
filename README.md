@@ -13,9 +13,9 @@ This repository contains all of the projects and teaching material for Trace Cam
 
 Links to the content we will be covering each week, aswell as the project assignments required for each.
 
-- [Week 0 - Prework](./curriculum/week-1/README.md)
+- [Week 0 - Prework](./curriculum/week-0/README.md)
 - Week 1
-  - [Part 1 - HTML, CSS]()
+  - [Part 1 - HTML, CSS](./curriculum/week-1/README.md)
   - [Part 2 - Bootstrap]()
 - Week 2
   - [Part 1 - HTML, CSS]()
