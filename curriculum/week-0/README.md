@@ -34,6 +34,7 @@ Post the link to the Github Pages page in the Discord after you have completed i
 
 - [Example of a completed assignment](https://jake-armstrong.surge.sh/)
 - [Video tutorial for completing the assignment](https://www.youtube.com/playlist?list=PLHiGtNshvZ3BRExT8d34We2Ep_nnI7aWf)
+
 If you prefer text-based tutorials, these 2 give you all the information you need to complete the assignment
 - [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
