@@ -1,13 +1,11 @@
 <h1 align="center">
   TODO: 
 </h1>
-- Add stretch (?) CSS assignment, rebuilding a site design
 
-- edit youtube playlist to exclude chapter on Tailwind and surge
-
-- Be more explicist about github pages directions
-
-- Add something about installing VSCode, Node
+- Watch jake's video and...
+- make new youtube playlist to exclude chapter on Tailwind and surge
+- determine what things need to addressed more explicitly (check git video, VScode, GitHub Pages)
+- recommended addons? Prettier?
 
 <h1 align="center">
   🌅 Week 0 - Prework 🌅
