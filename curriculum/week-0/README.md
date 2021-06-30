@@ -7,7 +7,7 @@
 
 - Be more explicist about github pages directions
 
-- Add something about installing VSCode, WSL, Node
+- Add something about installing VSCode, Node
 
 <h1 align="center">
   🌅 Week 0 - Prework 🌅
