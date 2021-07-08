@@ -7,6 +7,7 @@
 - determine what things need to addressed more explicitly (check git video, VScode, GitHub Pages)
 - recommended addons? Prettier?
 - https://github.com/jlarmstrongiv/tracecamp-winter-2020/blob/main/curriculum/day-0/reference/03-git.md put this somewhere
+- add more explicit directions for github pages
 
 <h1 align="center">
   🌅 Week 0 - Prework 🌅
