@@ -6,6 +6,7 @@
 - make new youtube playlist to exclude chapter on Tailwind and surge
 - determine what things need to addressed more explicitly (check git video, VScode, GitHub Pages)
 - recommended addons? Prettier?
+- https://github.com/jlarmstrongiv/tracecamp-winter-2020/blob/main/curriculum/day-0/reference/03-git.md put this somewhere
 
 <h1 align="center">
   🌅 Week 0 - Prework 🌅
