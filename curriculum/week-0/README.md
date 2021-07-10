@@ -49,9 +49,12 @@ We *do not* expect you to understand everything in these resources. Your goal 
 - [MDN Docs - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - [MDN Docs - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
-If you have programming experience, we recommend using the text-based tutorials above to attempt the assignment by yourself. We've also provided a ~40-minute video tutorial that walks through the assignment step-by-step, if you need help.
+If you have programming experience, we recommend using the text-based tutorials above to attempt the assignment by yourself. We've also provided a ~40-minute video tutorial for beginners that walks through the assignment step-by-step, along with some reference documents meant to introduce you to the command line and git.
 
 - [Video tutorial for completing the assignment](https://www.youtube.com/playlist?list=PLHiGtNshvZ3BRExT8d34We2Ep_nnI7aWf)
+- [Tracecamp-docs: 01-installation](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/01-installation.md)
+- [Tracecamp-docs: 02-command-line](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/02-command-line.md)
+- [Tracecamp-docs: 03-git](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/03-git.md)
 
 
 ### 📖 Extra reading:
