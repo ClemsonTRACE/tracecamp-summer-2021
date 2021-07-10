@@ -2,7 +2,7 @@
    Day 3
 </h1>
 
-<h3>
+<h3 align="center">
    FSO Parts C&D: Component State & Event Handlers
 </h3>
 
