@@ -1,6 +1,10 @@
 <h1 align="center">
-   Week 1 - 
+   Day 2: Intro to React
 </h1>
+
+<h2 align="center">
+   FSO Parts A&B
+</h2>
 
 ## 🎯 Learning Objectives
 
