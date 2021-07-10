@@ -1,6 +1,10 @@
 <h1 align="center">
-   Day 1: Review, Intro to JavaScript
+   Day 1
 </h1>
+
+<h3 align="center">
+   Review, Intro to JavaScript
+</h3>
 
 ## 🎯 Learning Objectives
 - Review content from pre-work
