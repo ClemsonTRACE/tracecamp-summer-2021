@@ -2,9 +2,9 @@
    Day 2: Intro to React
 </h1>
 
-<h2 align="center">
+<h3 align="center">
    FSO Parts A&B
-</h2>
+</h3>
 
 ## 🎯 Learning Objectives
 
