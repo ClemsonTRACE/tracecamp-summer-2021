@@ -1,5 +1,5 @@
 <h1 align="center">
-   Day 1
+   Day 1: Review, Intro to JavaScript
 </h1>
 
 ## 🎯 Learning Objectives
