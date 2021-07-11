@@ -1,6 +1,8 @@
 <h1 align="center">
-   Day 1
+   Week 1
 </h1>
+
+# Week 1
 
 <h3 align="center">
    Review, Intro to JavaScript
