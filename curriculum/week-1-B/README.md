@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-   Intro to React: FSO Parts A&B
+   FSO Parts A&B: Intro to React
 </h3>
 
 ## 🎯 Learning Objectives
