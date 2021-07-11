@@ -7,7 +7,7 @@
  🌴 Trace Camp Summer 2021 🥥
 </h1>
 
-This repository contains all of the projects and teaching material for Trace Camp Winter 2020.
+This repository contains all of the projects and teaching material for Trace Camp Summer 2021.
 
 ## 📋 Curriculum
 
