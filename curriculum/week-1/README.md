@@ -1,10 +1,6 @@
 <h1 align="center">
-   Week 1
+   ⚛ Week 1 | Welcome to React! ⚛
 </h1>
-
-<h3 align="center">
-   Welcome to React!
-</h3>
 
 # ☕ Day 1 | Review, Intro to JavaScript
 
