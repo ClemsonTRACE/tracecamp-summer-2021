@@ -13,16 +13,19 @@ This repository contains all of the projects and teaching material for Trace Cam
 
 Links to the content we will be covering each week, aswell as the project assignments required for each.
 
-- [Week 0 - Prework](./curriculum/week-0/README.md)
+- [Week 0 - Prework](./curriculum/prework)
 - Week 1
-  - [Part 1 - HTML, CSS](./curriculum/week-1/README.md)
-  - [Part 2 - Bootstrap]()
+  - [A) Review, Intro to JavaScript](./curriculum/week-1-A)
+  - [B) FSO Parts A&B: Intro to React](./curriculum/week-1-B)
+  - [C) FSO Parts C&D: Component State & Event Handlers](./curriculum/week-1-C)
 - Week 2
-  - [Part 1 - HTML, CSS]()
-  - [Part 2 - Bootstrap]()
+  - [A) ](./curriculum/week-2-A)
+  - [B) ](./curriculum/week-2-B)
+  - [C) ](./curriculum/week-2-C)
 - Week 3
-  - [Part 1 - HTML, CSS]()
-  - [Part 2 - Bootstrap]()
+  - [A) ](./curriculum/week-3-A)
+  - [B) ](./curriculum/week-3-B)
+  - [C) ](./curriculum/week-3-C)
 - [Final Project]()
 
 ## 📚 Reference
