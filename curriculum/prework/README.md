@@ -3,7 +3,6 @@
 </h1>
 
 - Watch jake's video and...
-- make new youtube playlist to exclude chapter on Tailwind and surge
 - determine what things need to addressed more explicitly (check git video, VScode, GitHub Pages)
 - recommended addons? Prettier?
 - https://github.com/jlarmstrongiv/tracecamp-winter-2020/blob/main/curriculum/day-0/reference/03-git.md put this somewhere
@@ -51,7 +50,7 @@ We *do not* expect you to understand everything in these resources. Your goal 
 
 If you have programming experience, we recommend using the text-based tutorials above to attempt the assignment by yourself. We've also provided a ~40-minute video tutorial for beginners that walks through the assignment step-by-step, along with some reference documents meant to introduce you to the command line and git.
 
-- [Video tutorial for completing the assignment](https://www.youtube.com/playlist?list=PLHiGtNshvZ3BRExT8d34We2Ep_nnI7aWf)
+- [Video tutorial for completing the assignment](https://www.youtube.com/playlist?list=PL52xB3sn9T6mYdoTCXYIlkAv09m1XEMdz)
 - [Tracecamp-docs: 01-installation](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/01-installation.md)
 - [Tracecamp-docs: 02-command-line](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/02-command-line.md)
 - [Tracecamp-docs: 03-git](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/03-git.md)
