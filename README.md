@@ -15,14 +15,8 @@ Links to the content we will be covering each week, aswell as the project assign
 
 - [Week 0 - Prework](./curriculum/prework)
 - [Week 1](https://github.com/ClemsonTRACE/tracecamp-summer-2021/tree/main/curriculum/week-1)
-- Week 2
-  - [A) ](./curriculum/week-2-A)
-  - [B) ](./curriculum/week-2-B)
-  - [C) ](./curriculum/week-2-C)
-- Week 3
-  - [A) ](./curriculum/week-3-A)
-  - [B) ](./curriculum/week-3-B)
-  - [C) ](./curriculum/week-3-C)
+- [Week 2](https://github.com/ClemsonTRACE/tracecamp-summer-2021/tree/main/curriculum/week-2)
+- [Week 3](https://github.com/ClemsonTRACE/tracecamp-summer-2021/tree/main/curriculum/week-3)
 - [Final Project]()
 
 ## 📚 Reference
