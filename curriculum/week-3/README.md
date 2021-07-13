@@ -1,4 +1,4 @@
-<h0 align="center">
+<h1 align="center">
    ⚛   Week 3   ⚛
 </h1>
 
