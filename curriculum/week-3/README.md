@@ -13,7 +13,7 @@
 ##### 📚 Resources
 - x
 
-# ⚛ Day 8
+⚛ Day 8
 
 ##### 🎯 Learning Objectives
 - x
