@@ -54,8 +54,8 @@ Once you've completed everything above, you're done! However, this assignment is
 
 
 - For more on how websites work:
-  - (***strongly recommended!***) [Tracecamp-docs: 04-internet](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/04-internet.md) 
-  - (*** strongly recommended!***) [Tracecamp-docs: 05-frontend-vs-backend](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/05-frontend-vs-backend.md)
+  - ***strongly recommended!*** [Tracecamp-docs: 04-internet](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/04-internet.md) 
+  - ***strongly recommended!*** [Tracecamp-docs: 05-frontend-vs-backend](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/05-frontend-vs-backend.md)
   - (optional) Beginner friendly, but long: [Interneting is Hard - Basic Web Pages](https://www.internetingishard.com/html-and-css/)
   - (optional) Advanced (recommended for CS Majors): [Full Stack Open - Fundamentals of Web apps](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
 - For more on HTML:
