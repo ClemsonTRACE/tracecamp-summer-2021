@@ -3,8 +3,6 @@
 </h1>
 
 - Watch jake's video and...
-- determine what things need to addressed more explicitly (check git video, VScode, GitHub Pages)
-- recommended addons? Prettier?
 - https://github.com/jlarmstrongiv/tracecamp-winter-2020/blob/main/curriculum/day-0/reference/03-git.md put this somewhere
 - add more explicit directions for github pages
 
@@ -37,12 +35,15 @@ Third, past instructor Jake Armstrong (From the Exchange) made a ~40-minute vide
 
 - [Video tutorials for completing the assignment [YouTube Playlist]](https://www.youtube.com/playlist?list=PL52xB3sn9T6mYdoTCXYIlkAv09m1XEMdz)
 - [Example of a completed assignment [Webpage]](https://jake-armstrong.surge.sh/)
-- For more on HTML
+- For more on HTML (optional):
   - [Tracecamp-docs: 06-HTML](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/06-html.md)
   - [MDN Docs - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- For more on CSS
+- For more on CSS (optional):
   - [Tracecamp-docs: 08-css](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/08-css.md)
   - [MDN Docs - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- For more on web applications at large (***strongly recommended!***):
+  - [Tracecamp-docs: 04-internet](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/04-internet.md)
+  - [Tracecamp-docs: 05-frontend-vs-backend](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/05-frontend-vs-backend.md)
 
 We don't expect you to understand everything in these resources. Your goal is to complete the assignment, and learn as much as possible along the way. As with everything else in this bootcamp, you will only get out what you put into this assignment. Reach out to the instructors on Discord if you need help. We want to see you succeed!
 
@@ -68,9 +69,7 @@ Post the link to the Github Pages page in the Discord after you have completed i
 
 ### 📖 Extra reading:
 
-This assignment is a basic introduction to building websites, but it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read the articles below. **This is the only time in the course that we will look at how the internet works, or the front-end/back-end split, so if you're interested, read up now** and reach out to the instructors on Discord with questions!
-- [Tracecamp-docs: 04-internet](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/04-internet.md)
-- [Tracecamp-docs: 05-frontend-vs-backend](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/05-frontend-vs-backend.md)
+This assignment is a basic introduction to building websites, but it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read the articles below, and each out to the instructors on Discord with questions!
 - **Intermediate (beginner friendly, but long):** [Interneting is Hard - Basic Web Pages](https://www.internetingishard.com/html-and-css/)
 - **Advanced (recommended for CS Majors):** [Full Stack Open - Fundamentals of Web apps](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
 - Why should CS majors learn web development?: [Coding Horror - All Programming is Web Programming](https://blog.codinghorror.com/all-programming-is-web-programming/)
