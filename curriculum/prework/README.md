@@ -20,7 +20,33 @@ Welcome to Trace Camp! This intro will help everyone start with a solid base. Pl
 - Learn how to style your webpage with CSS
 - Learn how to save your project on GitHub
 
-## 📔 Assignment
+## 📚 Assigned Reading
+
+First, follow our installation guide to install NodeJS (which lets us run JavaScript code outside of our web browser) and VSCode (the most popular text-editor for programming).
+
+- [Tracecamp-docs: 01-installation [GitHub]](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/01-installation.md)
+
+Second, read these docuemnts that introduce you to the command-line, and git/GitHub
+
+- [Tracecamp-docs: 02-command-line](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/02-command-line.md)
+  - more info (optional): [Command line crash course [MDN Docs]](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#what_does_the_terminal_look_like)
+- [Tracecamp-docs: 03-git](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/03-git.md)
+  - more info (optional): [GitHub for complete beginners [MDN Docs]](https://developer.mozilla.org/en-US/docs/MDN/Contribute/GitHub_beginners)
+
+Third, past instructor Jake Armstrong (From the Exchange) made a ~40-minute video tutorial that walks through completing the project step-by-step. Like with all coding videos, make sure that you ***understand what you are doing*** as you complete this tutorial, and refer to the reading and reference documents if you don't understand anything. Also, Google is your friend. Use it relentlessly.
+
+- [Video tutorials for completing the assignment [YouTube Playlist]](https://www.youtube.com/playlist?list=PL52xB3sn9T6mYdoTCXYIlkAv09m1XEMdz)
+- [Example of a completed assignment [Webpage]](https://jake-armstrong.surge.sh/)
+- For more on HTML
+  - [Tracecamp-docs: 06-HTML](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/06-html.md)
+  - [MDN Docs - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+- For more on CSS
+  - [Tracecamp-docs: 08-css](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/08-css.md)
+  - [MDN Docs - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+
+We don't expect you to understand everything in these resources. Your goal is to complete the assignment, and learn as much as possible along the way. As with everything else in this bootcamp, you will only get out what you put into this assignment. Reach out to the instructors on Discord if you need help. We want to see you succeed!
+
+## 📔 Project
 
 Create your own icebreaker website. Be sure to include the following...
 
@@ -40,26 +66,11 @@ Create your own icebreaker website. Be sure to include the following...
 
 Post the link to the Github Pages page in the Discord after you have completed it!
 
-## 📚 Resources
-
-We *do not* expect you to understand everything in these resources. Your goal is to learn everything necessary to complete the assignment along the way. Reach out to the instructors on Discord if you need help. We want to see you succeed!
-
-- [Example of a completed assignment](https://jake-armstrong.surge.sh/)
-- [MDN Docs - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
-- [MDN Docs - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-
-If you have programming experience, we recommend using the text-based tutorials above to attempt the assignment by yourself. We've also provided a ~40-minute video tutorial for beginners that walks through the assignment step-by-step, along with some reference documents meant to introduce you to the command line and git.
-
-- [Video tutorial for completing the assignment](https://www.youtube.com/playlist?list=PL52xB3sn9T6mYdoTCXYIlkAv09m1XEMdz)
-- [Tracecamp-docs: 01-installation](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/01-installation.md)
-- [Tracecamp-docs: 02-command-line](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/02-command-line.md)
-- [Tracecamp-docs: 03-git](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/03-git.md)
-
-
 ### 📖 Extra reading:
 
-This assignment is a basic introduction to building websites, but it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read the articles below, and if you have any questions about the material, reach out to the instructors on Discord!
-
+This assignment is a basic introduction to building websites, but it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read the articles below. **This is the only time in the course that we will look at how the internet works, or the front-end/back-end split, so if you're interested, read up now** and reach out to the instructors on Discord with questions!
+- [Tracecamp-docs: 04-internet](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/04-internet.md)
+- [Tracecamp-docs: 05-frontend-vs-backend](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/05-frontend-vs-backend.md)
 - **Intermediate (beginner friendly, but long):** [Interneting is Hard - Basic Web Pages](https://www.internetingishard.com/html-and-css/)
 - **Advanced (recommended for CS Majors):** [Full Stack Open - Fundamentals of Web apps](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
 - Why should CS majors learn web development?: [Coding Horror - All Programming is Web Programming](https://blog.codinghorror.com/all-programming-is-web-programming/)
