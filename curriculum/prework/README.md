@@ -43,16 +43,16 @@ First, follow our installation guide to install NodeJS (which lets us run JavaSc
 
 - [Tracecamp-docs: 01-installation [GitHub]](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/01-installation.md)
 - [Tracecamp-docs: 02-command-line](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/02-command-line.md)
-  - more info (optional): [Command line crash course [MDN Docs]](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#what_does_the_terminal_look_like)
+  - (optional) more info : [Command line crash course [MDN Docs]](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#what_does_the_terminal_look_like)
 - [Tracecamp-docs: 03-git](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/03-git.md)
-  - more info (optional): [GitHub for complete beginners [MDN Docs]](https://developer.mozilla.org/en-US/docs/MDN/Contribute/GitHub_beginners)
+  - (optional) more info: [GitHub for complete beginners [MDN Docs]](https://developer.mozilla.org/en-US/docs/MDN/Contribute/GitHub_beginners)
 
 Second, watch this ~40-minute video tutorial that walks through completing the project step-by-step (made by past instructor Jake Armstrong 🙏). Like with all coding videos, make sure that you ***understand what you are doing*** as you complete this tutorial, and refer to the reading and reference documents if you don't understand anything. Also, Google is your friend. Use it relentlessly.
 
 - [Video tutorials for completing the assignment [YouTube Playlist]](https://www.youtube.com/playlist?list=PL52xB3sn9T6mYdoTCXYIlkAv09m1XEMdz)
-- [Example of a completed assignment [Webpage]](https://jake-armstrong.surge.sh/)
+  - (optional) [Example of a completed assignment](https://jake-armstrong.surge.sh/)
 
-This assignment is a basic introduction to building websites, but it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read the articles below, and each out to the instructors on Discord with questions!
+This assignment is a basic introduction to building websites, but it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read the articles below, and each out to the instructors on Discord with questions! ***Everything below here is optional***.
 
 
 - For more on how websites work:
