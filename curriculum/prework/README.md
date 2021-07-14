@@ -8,7 +8,7 @@
   🌅 Week 0 - Prework 🌅
 </h1>
 
-Welcome to Trace Camp! This intro will help everyone start with a solid base. Please complete the assigned readings and the prework project below, and submit it via the Trace Camp Discord Server ***by Saturday, July 24th*** to gain access to the camp!
+Welcome to Trace Camp! This intro will help everyone start with a solid base. Please complete the assigned readings and the prework project below, and submit it via the Trace Camp Discord server ***by Saturday, July 24th*** to gain access to the camp!
 
 ## 🎯 Learning Objectives
 
@@ -54,7 +54,7 @@ Second, use VSCode to code along while watching this ~40-minute video tutorial t
 - [Video tutorials for completing the assignment [YouTube Playlist]](https://www.youtube.com/playlist?list=PL52xB3sn9T6mYdoTCXYIlkAv09m1XEMdz)
   - (optional) [Example of a completed assignment](https://jake-armstrong.surge.sh/)
 
-This assignment is a basic introduction to building websites, but it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read the articles below, and each out to the instructors on Discord with questions!
+Once you've completed everything above, you're done! However, this assignment is a basic introduction to building websites, and  it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read the articles below, and each out to the instructors on Discord with questions!
 
 
 - For more on how websites work:
