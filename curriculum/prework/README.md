@@ -44,10 +44,6 @@ We don't expect you to understand everything in these resources. Your goal is 
 First, follow our installation guide to install NodeJS (which lets us run JavaScript code outside of our web browser) and VSCode (the most popular and *objectively superior** text-editor for programming), and read the 2 articles we've written to introduce you to the command line and git+GitHub.
 
 - [Tracecamp-docs: 01-installation [GitHub]](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/01-installation.md)
-- [Tracecamp-docs: 02-command-line](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/02-command-line.md)
-  - (optional) more info : [Command line crash course [MDN Docs]](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#what_does_the_terminal_look_like)
-- [Tracecamp-docs: 03-git](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/03-git.md)
-  - (optional) more info: [GitHub for complete beginners [MDN Docs]](https://developer.mozilla.org/en-US/docs/MDN/Contribute/GitHub_beginners)
 
 Second, use VSCode to code along while watching this ~40-minute video tutorial that walks through completing the project step-by-step (made by past instructor Jake Armstrong 🙏). Like with all coding videos, make sure that you ***understand what you are doing*** as you complete this tutorial, and refer to the reading and reference documents if you don't understand anything. Also, Google is your friend. Use it relentlessly.
 
@@ -68,3 +64,9 @@ Once you've completed everything above, you're done! However, this assignment is
 - For more on CSS:
   - (optional) [Tracecamp-docs: 08-css](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/08-css.md)
   - (optional) [MDN Docs - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+- For reference, more information about the CLI and git:
+  - (optional) [Tracecamp-docs: 02-command-line](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/02-command-line.md)
+  - (optional) more info : [Command line crash course [MDN Docs]](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#what_does_the_terminal_look_like)
+  - (optional) [Tracecamp-docs: 03-git](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/03-git.md)
+  - (optional) more info: [GitHub for complete beginners [MDN Docs]](https://developer.mozilla.org/en-US/docs/MDN/Contribute/GitHub_beginners)
+
