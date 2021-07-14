@@ -2,15 +2,13 @@
   TODO: 
 </h1>
 
-- Watch jake's video and...
-- https://github.com/jlarmstrongiv/tracecamp-winter-2020/blob/main/curriculum/day-0/reference/03-git.md put this somewhere
-- add more explicit directions for github pages
+- Watch jake's video and add more explicit directions for github pages
 
 <h1 align="center">
   🌅 Week 0 - Prework 🌅
 </h1>
 
-Welcome to Trace Camp! This intro will help everyone start with a solid base. Please complete the prework assignment before the camp starts.
+Welcome to Trace Camp! This intro will help everyone start with a solid base. Please complete the assigned readings and the prework project below, and submit it via the Trace Camp Discord Server ***by Saturday, July 24th*** to gain access to the camp!
 
 ## 🎯 Learning Objectives
 
