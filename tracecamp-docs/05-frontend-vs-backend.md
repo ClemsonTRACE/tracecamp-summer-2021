@@ -8,7 +8,7 @@ The frontend deals with loading the webpage in the browser. The frontend is also
 - **CSS** - the design and styling
 - **JavaScript** - interactivity and programming logic
 
-We will learn more about HTML, CSS, and JavaScript in upcoming lessons. Frontend concerns include loading content that the webpage needs, such as images, fonts, and requests for additional data. We can build webpages without a backend.
+Frontend concerns include loading content that the webpage needs, such as images, fonts, and requests for additional data. We can build webpages without a backend.
 
 ## Backend
 
