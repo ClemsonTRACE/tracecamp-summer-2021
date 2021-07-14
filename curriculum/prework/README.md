@@ -54,17 +54,17 @@ Second, watch this ~40-minute video tutorial that walks through completing the p
 - [Video tutorials for completing the assignment [YouTube Playlist]](https://www.youtube.com/playlist?list=PL52xB3sn9T6mYdoTCXYIlkAv09m1XEMdz)
   - (optional) [Example of a completed assignment](https://jake-armstrong.surge.sh/)
 
-This assignment is a basic introduction to building websites, but it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read the articles below, and each out to the instructors on Discord with questions! ***Everything below here is optional***.
+This assignment is a basic introduction to building websites, but it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read the articles below, and each out to the instructors on Discord with questions!
 
 
 - For more on how websites work:
-  - ***[Tracecamp-docs: 04-internet](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/04-internet.md) strongly recommended!***
-  - ***[Tracecamp-docs: 05-frontend-vs-backend](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/05-frontend-vs-backend.md) strongly recommended!***
-  - Beginner friendly, but long: [Interneting is Hard - Basic Web Pages](https://www.internetingishard.com/html-and-css/)
-  - Advanced (recommended for CS Majors): [Full Stack Open - Fundamentals of Web apps](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
+  - (optional) ***[Tracecamp-docs: 04-internet](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/04-internet.md) strongly recommended!***
+  - (optional) ***[Tracecamp-docs: 05-frontend-vs-backend](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/05-frontend-vs-backend.md) strongly recommended!***
+  - (optional) Beginner friendly, but long: [Interneting is Hard - Basic Web Pages](https://www.internetingishard.com/html-and-css/)
+  - (optional) Advanced (recommended for CS Majors): [Full Stack Open - Fundamentals of Web apps](https://fullstackopen.com/en/part0/fundamentals_of_web_apps)
 - For more on HTML:
-  - [Tracecamp-docs: 06-HTML](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/06-html.md)
-  - [MDN Docs - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
+  - (optional) [Tracecamp-docs: 06-HTML](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/06-html.md)
+  - (optional) [MDN Docs - HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 - For more on CSS:
-  - [Tracecamp-docs: 08-css](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/08-css.md)
-  - [MDN Docs - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+  - (optional) [Tracecamp-docs: 08-css](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/08-css.md)
+  - (optional) [MDN Docs - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
