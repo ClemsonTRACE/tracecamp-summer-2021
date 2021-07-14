@@ -22,7 +22,7 @@ If you don’t already have one, [sign up](https://github.com/) for a GitHub acc
 
 ## Online
 
-If your computer is especially slow, you may want to work in [GitHub Codespaces](https://visualstudio.microsoft.com/services//github-codespaces/)(formerly VS Code Online), which allows you to run code on the cloud. You may also use [Replit](https://replit.com/) or [CodeSandbox](https://codesandbox.io/).
+If your computer is especially slow, you may want to work in [GitHub Codespaces](https://visualstudio.microsoft.com/services//github-codespaces/) (formerly VS Code Online), which allows you to run code on the cloud. You may also use [Replit](https://replit.com/) or [CodeSandbox](https://codesandbox.io/).
 
 Try as much as you can to avoid using these services for this camp, we want you to walk away with the ability to develop projects from scratch on your machine, and these tools won't support that goal. But use them if you must, and let us know so we can be prepared to help you.
 
