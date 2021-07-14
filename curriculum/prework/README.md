@@ -41,7 +41,7 @@ Post the link to the Github Pages page in the Discord after you have completed i
 
 We don't expect you to understand everything in these resources. Your goal is to complete the assignment, and learn as much as possible along the way. As with everything else in this bootcamp, you will only get out what you put into this assignment. Reach out to the instructors on Discord if you need help. We want to see you succeed!
 
-First, follow our installation guide to install NodeJS (which lets us run JavaScript code outside of our web browser) and VSCode (the most popular text-editor for programming), and read the 2 articles we've written to introduce you to the command line and git+GitHub.
+First, follow our installation guide to install NodeJS (which lets us run JavaScript code outside of our web browser) and VSCode (the most popular and *objectively superior** text-editor for programming), and read the 2 articles we've written to introduce you to the command line and git+GitHub.
 
 - [Tracecamp-docs: 01-installation [GitHub]](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/01-installation.md)
 - [Tracecamp-docs: 02-command-line](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/02-command-line.md)
@@ -68,3 +68,5 @@ This assignment is a basic introduction to building websites, but it doesn't exp
 - For more on CSS:
   - (optional) [Tracecamp-docs: 08-css](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/08-css.md)
   - (optional) [MDN Docs - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
+
+* Our fact-checkers have confirmed that VSCode is in-fact the best text-editor, and vim is for try-hards
