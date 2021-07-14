@@ -68,5 +68,3 @@ This assignment is a basic introduction to building websites, but it doesn't exp
 - For more on CSS:
   - (optional) [Tracecamp-docs: 08-css](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/08-css.md)
   - (optional) [MDN Docs - CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
-
-* Our fact-checkers have confirmed that VSCode is in-fact the best text-editor, and vim is for try-hards
