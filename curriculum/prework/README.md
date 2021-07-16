@@ -45,13 +45,11 @@ Second, use VSCode to code along while watching this ~40-minute video tutorial t
   - (optional) [Example of a completed assignment](https://jake-armstrong.surge.sh/)
 
 Once you've completed everything above, you're almost done. Personalize your website, make it look creative and polished, and then push all of your changes to GitHub with your command line by running these commands:
-`
-git add *
 
-git commit -m "tracecamp prework submission*"
+`git add *`
+`git commit -m "tracecamp prework submission*"`
+`git push`
 
-git push
-`
 *\*The words between the quotes are arbitrary*
 
 Then, publish your site to github pages following these steps:
