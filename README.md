@@ -14,13 +14,7 @@ This repository contains all of the projects and teaching material for Trace Cam
 
 Links to the content we will be covering each week, aswell as the project assignments required for each.
 
-- [Week 0 - Prework](./curriculum/prework)
-- [Week 1](https://github.com/ClemsonTRACE/tracecamp-summer-2021/tree/main/curriculum/week-1)
-- [Week 2](https://github.com/ClemsonTRACE/tracecamp-summer-2021/tree/main/curriculum/week-2)
-- [Week 3](https://github.com/ClemsonTRACE/tracecamp-summer-2021/tree/main/curriculum/week-3)
-- [Final Project]()
-
-## 📚 Reference
+- [Prework](./curriculum/prework)
 
 ## 🔗 Links
 
