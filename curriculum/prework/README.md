@@ -7,7 +7,7 @@ Welcome to Trace Camp! This intro will help everyone start with a solid base. Pl
 ## 🎯 Learning Objectives
 
 - Learn how to structure your webpage with HTML
-- Learn how to style your webpage with CSS
+- Learn how to style your webpage with CSS and TailwindCSS
 - Learn how to save your project on GitHub
 
 ## 📔 Project
