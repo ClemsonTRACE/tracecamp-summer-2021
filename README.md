@@ -1,4 +1,5 @@
 <p align="center">
+  <br />
   <a href="https://tracecamp.com">
     <img alt="Tracecamp" src="./logo.svg" width="60" />
   </a>
