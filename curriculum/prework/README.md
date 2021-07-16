@@ -1,10 +1,4 @@
 <h1 align="center">
-  TODO: 
-</h1>
-
-- Watch jake's video and add more explicit directions for github pages
-
-<h1 align="center">
   🌅 Week 0 - Prework 🌅
 </h1>
 
@@ -60,11 +54,11 @@ git push
 
 Then, publish your site to github pages following these steps:
 - Go to your project's page on GitHub and click the project's "⚙ Settings" button
-  - ![settings-screenshot](https://user-images.githubusercontent.com/44075075/125997604-eaf156e5-0051-4356-bb82-50f113901238.png)
+  - ![settings-screenshot](https://user-images.githubusercontent.com/44075075/125997604-eaf156e5-0051-4356-bb82-50f113901238.png | width=200)
 - Click "Pages" at the bottom of the sidebar
-  - ![pages-screenshot](https://user-images.githubusercontent.com/44075075/125997843-dd9e40cc-b987-4854-ba5a-62290182e276.png)
+  - ![pages-screenshot](https://user-images.githubusercontent.com/44075075/125997843-dd9e40cc-b987-4854-ba5a-62290182e276.png | width=100)
 - Click the dropdown box to select your page's source, and click "main," then click "save."
-  - ![source-screenshot](https://user-images.githubusercontent.com/44075075/125998235-70bf43a0-b011-42ec-ae2b-46d64c3cc640.png)
+  - ![source-screenshot](https://user-images.githubusercontent.com/44075075/125998235-70bf43a0-b011-42ec-ae2b-46d64c3cc640.png | width=300)
 
 You should see a blue box that says "Your site is ready to be published at ____________." After a couple of minutes, if you click that link, it should show that your site has successfully been published. Copy this link and paste it in the submissions chat of the Discord server to gain access to the rest of the Summer 2021 camp. 
 
