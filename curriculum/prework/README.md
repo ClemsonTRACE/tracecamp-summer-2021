@@ -50,8 +50,27 @@ Second, use VSCode to code along while watching this ~40-minute video tutorial t
 - [Video tutorials for completing the assignment [YouTube Playlist]](https://www.youtube.com/playlist?list=PL52xB3sn9T6mYdoTCXYIlkAv09m1XEMdz)
   - (optional) [Example of a completed assignment](https://jake-armstrong.surge.sh/)
 
-Once you've completed everything above, you're done! However, this assignment is a basic introduction to building websites, and  it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read some of the articles below, and each out to the instructors on Discord with questions!
+Once you've completed everything above, you're almost done. Personalize your website, make it look creative and polished, and then push all of your changes to GitHub with your command line by running these commands:
+`
+git add *
+git commit -m "tracecamp prework submission*"
+git push
+`
+*\*The words between the quotes are arbitrary*
 
+Then, publish your site to github pages following these steps:
+- Go to your project's page on GitHub and click the project's "⚙ Settings" button
+  - ![settings-screenshot](https://user-images.githubusercontent.com/44075075/125997604-eaf156e5-0051-4356-bb82-50f113901238.png)
+- Click "Pages" at the bottom of the sidebar
+  - ![pages-screenshot](https://user-images.githubusercontent.com/44075075/125997843-dd9e40cc-b987-4854-ba5a-62290182e276.png)
+- Click the dropdown box to select your page's source, and click "main," then click "save."
+  - ![source-screenshot](https://user-images.githubusercontent.com/44075075/125998235-70bf43a0-b011-42ec-ae2b-46d64c3cc640.png)
+
+You should see a blue box that says "Your site is ready to be published at ____________." After a couple of minutes, if you click that link, it should show that your site has successfully been published. Copy this link and paste it in the submissions chat of the Discord server to gain access to the rest of the Summer 2021 camp. 
+
+#### And congratulations on publishing your first website! 🎉
+
+This assignment is a basic introduction to building websites, and  it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read some of the articles below, and each out to the instructors on Discord with questions!
 
 - For more on how websites work:
   - ***strongly recommended!*** [Tracecamp-docs: 04-internet](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/04-internet.md) 
