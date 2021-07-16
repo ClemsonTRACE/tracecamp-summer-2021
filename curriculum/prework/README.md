@@ -47,7 +47,9 @@ Second, use VSCode to code along while watching this ~40-minute video tutorial t
 Once you've completed everything above, you're almost done. Personalize your website, make it look creative and polished, and then push all of your changes to GitHub with your command line by running these commands:
 `
 git add *
+
 git commit -m "tracecamp prework submission*"
+
 git push
 `
 *\*The words between the quotes are arbitrary*
