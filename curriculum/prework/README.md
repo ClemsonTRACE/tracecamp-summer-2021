@@ -10,27 +10,6 @@ Welcome to Trace Camp! This intro will help everyone start with a solid base. Pl
 - Learn how to style your webpage with CSS and TailwindCSS
 - Learn how to save your project on GitHub
 
-## 📔 Project
-
-Create your own icebreaker website. Be sure to include the following...
-
-- Name
-- Picture of yourself
-- Major
-- Hometown
-- LinkedIn link
-- If you have a pet, a photo
-- Card grid of hobbies / interests
-  - pictures
-  - title
-  - short description
-- Something unique or random
-- Publish source code publicly on [GitHub](https://github.com/)
-- Deploy using [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-
-Post the link to the Github Pages page in the Discord after you have completed it!
-
-
 ## 📚 Assigned Reading
 
 We don't expect you to understand everything in these resources. Your goal is to complete the assignment, and learn as much as possible along the way. As with everything else in this bootcamp, you will only get out what you put into this assignment. Reach out to the instructors on Discord if you need help. We want to see you succeed!
@@ -71,4 +50,24 @@ This assignment is a basic introduction to building websites, and  it doesn't ex
   - (optional) more info : [Command line crash course [MDN Docs]](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Understanding_client-side_tools/Command_line#what_does_the_terminal_look_like)
   - (optional) [Tracecamp-docs: 03-git](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/03-git.md)
   - (optional) more info: [GitHub for complete beginners [MDN Docs]](https://developer.mozilla.org/en-US/docs/MDN/Contribute/GitHub_beginners)
+
+## 📔 Project
+
+Create your own icebreaker website. Be sure to include the following...
+
+- Name
+- Picture of yourself
+- Major
+- Hometown
+- LinkedIn link
+- If you have a pet, a photo
+- Card grid of hobbies / interests
+  - pictures
+  - title
+  - short description
+- Something unique or random
+- Publish source code publicly on [GitHub](https://github.com/)
+- Deploy using [Github Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+
+Post the link to the Github Pages page in the Discord after you have completed it!
 
