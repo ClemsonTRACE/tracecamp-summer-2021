@@ -39,7 +39,7 @@ First, follow our installation guide to install NodeJS (which lets us run JavaSc
 
 - [Tracecamp-docs: 01-installation [GitHub]](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/01-installation.md)
 
-Second, use VSCode to code along while watching this ~40-minute video tutorial that walks through completing the project step-by-step (made by past instructor Jake Armstrong 🙏). Like with all coding videos, make sure that you ***understand what you are doing*** as you complete this tutorial, and refer to the reading and reference documents if you don't understand anything. Also, Google is your friend. Use it relentlessly.
+Second, use VSCode to code along while watching this ~40-minute video tutorial that walks through completing the project step-by-step (made by past instructor Jake Armstrong 🙏). Like with all coding videos, make sure that you ***understand what you are doing*** as you complete this tutorial, and refer to the reading and reference documents if you don't understand anything. We also strongly encouraged you to use Google to find new learning materials throughout the camp.
 
 - [Video tutorials for completing the assignment [YouTube Playlist]](https://www.youtube.com/playlist?list=PL52xB3sn9T6mYdoTCXYIlkAv09m1XEMdz)
   - (optional) [Example of a completed assignment](https://jake-armstrong.surge.sh/)
