@@ -32,7 +32,7 @@ Copy the link to your published site and paste it in the submissions chat of the
 
 #### And congratulations on publishing your first website! 🎉
 
-This assignment is a basic introduction to building websites, and  it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read some of the articles below, and each out to the instructors on Discord with questions!
+This assignment is a basic introduction to building websites, and  it doesn't explain much about **_how_** a webpage works. If you want a more technical understanding of webpages (which will help you later on in the camp), read some of the articles below, and reach out to the instructors on Discord with questions!
 
 - For more on how websites work:
   - ***strongly recommended!*** [Tracecamp-docs: 04-internet](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/04-internet.md) 
