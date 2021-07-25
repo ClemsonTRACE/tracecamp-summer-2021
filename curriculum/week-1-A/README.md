@@ -21,5 +21,3 @@
 ## 📔 Assignment
 - [Silly Story Generator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)- Your project is to create a silly story generator using the MDN tutorial website. The silly story generator will have you working with JS functions to create a random story generator that includes the user's name and unit preferences (all will be explained on the site :)).
 - Stretch Goal: style your Silly Story Generator using CSS, and make it pretty!
-
-
