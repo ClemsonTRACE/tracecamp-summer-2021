@@ -15,7 +15,7 @@ This repository contains all of the projects and teaching material for Trace Cam
 Links to the content we will be covering each week, aswell as the project assignments required for each.
 
 - [Prework](./curriculum/prework)
-- [Day 1](./curriculum/curriculum/day-1)
+- [Day 1](./curriculum/day-1)
 
 ## 🔗 Links
 
