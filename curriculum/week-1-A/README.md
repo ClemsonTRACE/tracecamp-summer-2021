@@ -2,10 +2,6 @@
    ☕ Day 1: Intro to JavaScript
 </h1>
 
-<h3 align="center">
-   Intro to JavaScript
-</h3>
-
 ## 🎯 Learning Objectives
 - Learn essential JavaScript syntax
     - variables, objects, functions, events
