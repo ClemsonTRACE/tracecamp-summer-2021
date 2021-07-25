@@ -18,6 +18,6 @@
 - (optional) [Tracecamp-docs: 10-javascript](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/tracecamp-docs/10-javascript.md)- This includes a reference guide for JavaScript syntax and common library functions. This is especially useful to refer back to when you want to understand JavaScript code that you are reading.
 - (optional resource for experimenting with code) [JS Bin](https://jsbin.com/?html,output) - This is a site where you can experiment with coding in JavaScript online. It's a great resource as a sort of workspace for "scratch work."
 
-## 📔 Assignment
+## 📔 Project
 - [Silly Story Generator](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Silly_story_generator)- Your project is to create a silly story generator using the MDN tutorial website. The silly story generator will have you working with JS functions to create a random story generator that includes the user's name and unit preferences (all will be explained on the site :)).
 - Stretch Goal: style your Silly Story Generator using CSS, and make it pretty!
