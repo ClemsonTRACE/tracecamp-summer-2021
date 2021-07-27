@@ -1,10 +1,7 @@
 <h1 align="center">
-   Day 2
-</h1>
+   ⚛ Day 2: Intro to React
 
-<h3 align="center">
-   Intro to React
-</h3>
+</h1>
 
 ## 🎯 Learning Objectives
 - Learn how to set up a React project
