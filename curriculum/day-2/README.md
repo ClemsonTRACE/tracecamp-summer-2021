@@ -17,6 +17,7 @@
 
 Additional resources:
 
+- We recommend using [Surge](https://surge.sh/help/getting-started-with-surge) to deploy React apps for projects.
 - (optional) [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) is an incredibly useful tool for debugging React in the Chrome and Firefox web browsers.
 - (optional) [Install Tailwind CSS with Create React App [tailwindcss.com]](https://tailwindcss.com/docs/guides/create-react-app) - instructions on how to setup TailwindCSS in your React project
 - (optional) For CS Majors, our instructor Houston has made [an introduction to React](https://github.com/ClemsonTRACE/tracecamp-summer-2021/blob/main/curriculum/week-1/Declarative-JavaScript.org) centered around teaching the ***declarative development paradigm*** as opposed to the imperative paradigm taught in most CS contexts.
@@ -34,6 +35,8 @@ Core requirements:
 - <b>Divide your code into components and put those components into their own files in a components folder</b> (hint: I used the main structural components: the header, the introduction, the about section, the pets section, and the trademark; and repeated code: cards and pets)
 - <b>Make your code readable</b> (hint: the VSCode extension ***Prettier*** helps make your code readable)
 - <b>Publish code publicly on Github</b>
+- <b>Deploy your code online</b> (We strongly recommend using surge.sh for this)
+- <b>Post a link to the Github repository page and your deployed website</b>
 
 Stretch Goals:
 
