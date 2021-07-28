@@ -16,6 +16,7 @@ Links to the content we will be covering each week, aswell as the project assign
 
 - [Prework](./curriculum/prework)
 - [Day 1 - Intro to JavaScript](./curriculum/day-1)
+- [Day 2 - Intro to React](./curriculum/day-2)
 
 ## 🔗 Links
 
