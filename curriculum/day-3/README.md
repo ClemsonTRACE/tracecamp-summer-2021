@@ -31,7 +31,6 @@ Develop a memory game. Your game should contain a grid of boxes (recommended 3x3
 - Create a start screen
 - Create a grid with clickable boxes
 - Have a "next" button to go to the next "blink"
-- Clicking should be disabled during pattern blinking
 - Every "round" adds a new blink
 - Game ends if wrong
 - Create a game end screen
