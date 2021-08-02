@@ -6,13 +6,13 @@
 
 </h3>
 
-### ****🎯 Learning Objectives****
+## ****🎯 Learning Objectives****
 
 - Learn about JavaScript objects
 - Learn using JavaScript objects for state
 - Learn to use array functions in your React code
 
-### **📚 Assigned Reading**
+## **📚 Assigned Reading**
 
 - [W3 page on JavaScript Objects](https://www.w3schools.com/js/js_objects.asp)
     - If you are already familiar with JavaScript objects, you can skip this.  If you are not, I encourage you to read through at least the 'Accessing Object Properties' section.
@@ -31,7 +31,7 @@ Additional resources:
 - (optional) [16.8: Array Functions: filter() - Topics of JavaScript/ES6](https://www.youtube.com/watch?v=qmnH5MT_luk) A more casual, down to earth introduction to the filter array function in particular.
 - (optional) [MDN page on spread syntax (...)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) The spread operator is an invaluable tool when it comes to working objects and arrays in JavaScript.  It gets briefly touched on in the videos, but not in as much depth as I would like, so here is the documentation.
 
-### **📔 Project**
+## **📔 Project**
 
 Create a To-do list in React\
 If you're struggling to get started or want a decent starting point for the add new items form I wrote some starter code for this one:
