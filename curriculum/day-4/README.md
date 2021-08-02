@@ -1,5 +1,5 @@
 <h1 align="center">
-   Day 4
+   ☑ Day 4: State, To-do list
 </h1>
 
 <h3 align="center">
