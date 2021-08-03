@@ -14,9 +14,9 @@
 - [In-depth Explanation of The useEffect Hook](https://dev.to/mpodlasin/react-useeffect-hook-explained-in-depth-on-a-simple-example-19ec)
    - Dives into the using the useEffect hook using specific examples to show the properties of the React component lifecycle.
 - [Official Introduction to The useEffect hook](https://reactjs.org/docs/hooks-effect.html)
-   - Similar to the first resource, but references the older version of react to explain the same concepts
+   - Similar to the first resource, but references the older version of react to explain the same concepts.
 - [Stringify and Parse](https://javascript.plainenglish.io/how-to-use-stringify-and-parse-in-javascript-6b637b571a32)
-   - Breif introduction to the JSON.stringify and JSON.parse functions with a couple examples for each
+   - Breif introduction to the JSON.stringify and JSON.parse functions with a couple examples for each.
 
 
 ## 📔 Assignment
