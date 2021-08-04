@@ -20,14 +20,13 @@
    - Breif introduction to the JSON.stringify and JSON.parse functions with a couple examples for each.
 - [MDN Docs: Window.localStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
    - Very brief intro to localStorage
-- [MDN Docs: Using the Web Storage API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API)
-   - More in-depth guide to using localStorage
+- [YouTube, Ben Awad: React Persist State to LocalStorage with useEffect](https://www.youtube.com/watch?v=fTP2gi7e3k8)
+   - More in-depth guide to using localStorage in React
 
 Optional resouces:
 - [Stack Overflow: What is "Mounting" in React.js?](https://stackoverflow.com/questions/31556450/what-is-mounting-in-react-js): It is helpful to know what "mounting" means when talking about the lifecyle of a React component
 - [dev.to: useEffect explained with lifecycle methods](https://dev.to/prototyp/react-useeffect-explained-with-lifecycle-methods-296n): If you're interested in understanding how React worked before February 2019, this explains how to use useEffect to accomplish the tasks of the old lifecycle methods it has replaced (_componentDidMount_, _componentDidUpdate_, and _componentWillUnmount_).
 - [Reddit comment giving a simplified guide to using useEffect](https://www.reddit.com/r/reactjs/comments/lpkwrh/am_i_the_only_one_who_finds_react_lifecycle_hooks/goc3d2d/)
-- [Using localStorage with React Hooks](https://blog.logrocket.com/using-localstorage-react-hooks/): long but good. Useful for understanding how to interact with localStorage in the context of useEffect and React at large.
 
 
 
