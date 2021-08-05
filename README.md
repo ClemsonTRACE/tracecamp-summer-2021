@@ -20,6 +20,7 @@ Links to the content we will be covering each week, aswell as the project assign
 - [💥 Day 3 - State and Events in React](./curriculum/day-3)
 - [☑ Day 4 - State, To-do list](./curriculum/day-4)
 - [🗃 Day 5 - useEffect, localStorage, and JSON](./curriculum/day-5)
+- [🌐 Day 6 - Promises, APIs, Axios](./curriculum/day-6)
 
 ## 🔗 Links
 
