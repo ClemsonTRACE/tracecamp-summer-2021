@@ -40,9 +40,9 @@ Create a persistent notes app, in which the user can type out text and save it f
 - Text in the text area is populated with any prior text (stored in local storage) if present.
 - The user can save current text by clicking a button
 - Make an indicator to show the user whether the current text is saved or not
+- The user also has the option to enable auto-saving with a toggle or checkbox. This will save the input of the text field on every change of the text.
 
 **Optional Features**
 
-- The user also has the option to enable auto-saving with a toggle or checkbox. This will save the input of the text field on every change of the text.
 - Ability to make multiple notes. This can be either a set number of notes or a variable amount with addition or deletion.
 - Add any flourish you like! if you can sell us on it we can award a point for it 🙂
