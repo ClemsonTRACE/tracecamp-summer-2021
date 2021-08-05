@@ -21,7 +21,7 @@ Additional Resources:
 
 ## 📔 Assignment
 
-For this project you will make a trivia game using the free Open Trivia Database api. The app will contact the api to get a question and the user will then answer the question to get points. The amount of questions they answer in a row should be displayed. I recommend using the single question true/false endpoint, like this `https://opentdb.com/api.php?amount=1&type=boolean`; as handling true or false is easier than storing all of the possible answer choices for multiple choice.
+For this project you will make a trivia game using the free Open Trivia Database api. The app will contact the api to get a question and the user will then answer the question to get points. The amount of questions they answer in a row should be displayed. I recommend using the single question true/false endpoint, `https://opentdb.com/api.php?amount=1&type=boolean`, as handling true or false is easier than storing all of the possible answer choices for multiple choice.
 
 Heres a template repository if you don't want to re-setup create-react-app, tailwind, or axios every time: [https://github.com/Mjtlittle/tracecamp-cra-template](https://github.com/Mjtlittle/tracecamp-cra-template).
 
