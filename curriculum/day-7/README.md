@@ -11,9 +11,9 @@
 
 ## 📚 Resources
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0139ba8-5834-4ffc-8637-b7884cac6881/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c0139ba8-5834-4ffc-8637-b7884cac6881/Untitled.png)
+![MVP visualization 1](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c0139ba8-5834-4ffc-8637-b7884cac6881/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210808%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210808T215041Z&X-Amz-Expires=86400&X-Amz-Signature=36311d47a418eca084665ce7d1064f07ca45e0e22ed1295814a0ff04dafbc89e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2647a71e-54b7-4e7e-8f7d-b611a30350f0/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2647a71e-54b7-4e7e-8f7d-b611a30350f0/Untitled.png)
+![MVP visualization 2](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2647a71e-54b7-4e7e-8f7d-b611a30350f0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210808%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210808T215050Z&X-Amz-Expires=86400&X-Amz-Signature=58c01bc95627670e65f80139d1bd846c84e4196767e3f3423e080972b64c8d1f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22)
 
 - optional: [React Docs on Forms](https://reactjs.org/docs/forms.html) - we will go over forms on Tuesday
 
