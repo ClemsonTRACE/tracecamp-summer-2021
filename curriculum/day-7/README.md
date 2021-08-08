@@ -1,5 +1,5 @@
 <h1 align="center">
-   Day 3
+   🏗 Day 7: Starting Your Project!
 </h1>
 
 <h3 align="center">
