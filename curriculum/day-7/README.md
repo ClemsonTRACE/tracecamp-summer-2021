@@ -28,3 +28,4 @@ For this assignment you will be planning out a personal project to complete by t
 
 Be sure to choose reasonable goals, as you will only have the week to work on it before you show them off on Sunday. If you are wondering if any of your goals are too ambitious, feel free to reach out for help in the questions channel or directly message any of the instructors.
 
+***You will submit this project by responding to the thread we attach to your name in the Submissions channel on Discord!***
