@@ -6,8 +6,8 @@
 
 </h3>
 
-## 🎯 Learning Objectives
-- Understand an MVP
+## 🎯 Objectives
+- Create an outline of your project
 
 ## 📚 Resources
 
